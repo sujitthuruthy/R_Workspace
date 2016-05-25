@@ -18,3 +18,21 @@ ggplot(data=myfile[myfile$carat<2.5,],
   geom_smooth()
 
 # Section 3 - R Fundamentals 
+A <- 10
+B <- 5
+
+C <- A+B
+C
+
+var1 <- 2.5
+var2 <- 4
+
+result <- var1 / var2
+
+squareroot <- sqrt(var2)
+
+greeting <- "Hello"
+name <- "dude"
+
+message <- paste(greeting, "mone", name)
+
